@@ -1,8 +1,8 @@
 aid: nhs-england-digital
 name: NHS England Digital
 description: >-
-  We support NHS staff at work, help people get the best care, and use the
-  nations health data to drive research and transform services. 
+  We support NHS staff at work, help people get the best care, and use the nations
+  health data to drive research and transform services.
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -18,8 +18,8 @@ apis:
   - aid: nhs-england-digital:nhs-england-digital
     name: NHS England Digital
     description: >-
-      We support NHS staff at work, help people get the best care, and use the
-      nations health data to drive research and transform services. 
+      We support NHS staff at work, help people get the best care, and use the nations
+      health data to drive research and transform services.
     humanURL: ' https://digital.nhs.uk/'
     tags:
       - API
