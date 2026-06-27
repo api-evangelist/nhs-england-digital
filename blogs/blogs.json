@@ -3,13 +3,10 @@
   "feeds": [
     {
       "source": "https://digital.nhs.uk/blog",
-      "error": "HTTPError"
-    },
-    {
-      "source": "https://digital.nhs.uk/developer/guides-and-documentation",
-      "error": "HTTPError"
+      "saved": 0,
+      "error": "HTTP 403 Forbidden on listing page"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T12:56:03Z",
+  "post_count": 0
 }
