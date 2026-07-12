@@ -144,6 +144,10 @@ apis:
       - type: Documentation
         url: https://digital.nhs.uk/services/nhs-login
 common:
+  - type: VulnerabilityDisclosure
+    url: security/nhs-england-digital-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/nhs-england-digital-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/nhs-digital
   - type: Website
