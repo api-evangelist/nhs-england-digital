@@ -45,6 +45,18 @@ tags:
   - Open Data
   - Patient Records
   - Prescriptions
+  - United Kingdom
+tags_raw:
+  - Clinical
+  - Demographics
+  - FHIR
+  - Government
+  - Health
+  - Healthcare
+  - NHS
+  - Open Data
+  - Patient Records
+  - Prescriptions
   - UK
 url: >-
   https://raw.githubusercontent.com/api-evangelist/nhs-england-digital/refs/heads/main/apis.yml
